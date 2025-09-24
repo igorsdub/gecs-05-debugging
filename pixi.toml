@@ -1,5 +1,5 @@
 [project]
-name = "GECS Session 4 - Testing"
+name = "gecs-05-debugging"
 description = "A tutorial on code testing with pytest."
 version = "0.1.0"
 channels = ['conda-forge']
